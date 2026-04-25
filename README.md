@@ -18,5 +18,4 @@ This repository contains the implementation for the project:
   - dependency relations
   - multiple languages
 
-## File
-- intervener_analysis.ipynb → main implementation
+
